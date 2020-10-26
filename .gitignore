@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/JWT/JWT/bin/Debug/netcoreapp3.1
+/JWT/.vs/JWT/v16/.suo
+/JWT/JWT/obj
